@@ -27,7 +27,7 @@ chapter: false
 
 &emsp; **Internship Duration:** April 17, 2026 - July 30, 2026
 
-<img src="/Internship/images/avata-tkh.png" alt="Your profile picture" width="380" />
+<img src="/Internship/images/avatar-tkh.png" alt="Your profile picture" width="380" />
 
 ### Report Content
 

@@ -3,7 +3,7 @@ name: Deploy Tran Kha Hao internship report
 on:
   push:
     branches:
-      - intern/tran-kha-hao
+      - main
     paths:
       - "submissions/tran-kha-hao/fcj-workshop-template-main/**"
       - ".github/workflows/deploy-tran-kha-hao-report.yml"

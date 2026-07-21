@@ -41,3 +41,4 @@ Cette documentation statique a été générée avec Hugo avec une simple comman
 {{% notice note %}}
 Le site est auomatiquement publié et hébergé par [Netlify](https://www.netlify.com/). Plus d'infos sur le [déploiement de site Hugo avec Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)(En anglais)
 {{% /notice %}}
+

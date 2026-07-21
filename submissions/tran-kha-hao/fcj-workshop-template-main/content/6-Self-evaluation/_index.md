@@ -33,3 +33,4 @@ I also need to continue improving team communication. In a project with many int
 ## Conclusion
 
 Overall, I believe I completed my internship responsibilities well within my assigned scope. I did not build the entire project alone, but I made clear contributions to AWS infrastructure, AWS SAM, Cognito, API Gateway, Lambda/DynamoDB integration, EventBridge, SNS, CloudFront, frontend integration, deployment, testing, and documentation. This internship made me more confident with AWS and helped me better understand how a team completes a technical project.
+

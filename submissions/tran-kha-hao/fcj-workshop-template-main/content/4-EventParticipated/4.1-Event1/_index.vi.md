@@ -58,3 +58,4 @@ Diễn giả giới thiệu cách chuyển từ phụ thuộc vào cảm hứng 
 ## Trải nghiệm trong event
 
 Dù là một buổi chia sẻ cuối tuần, năng lượng từ các diễn giả rất tích cực. Sự kiện không chỉ nói về kỹ thuật AI mà còn kết hợp tâm lý học hành vi, năng suất cá nhân và định hướng nghề nghiệp. Tôi nhận ra trong kỷ nguyên AI, người học công nghệ không chỉ cần biết công cụ mà còn cần kỷ luật, khả năng tự học và tâm lý vững vàng.
+

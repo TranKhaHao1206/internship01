@@ -22,3 +22,4 @@ This worklog summarizes my internship progress from AWS learning labs to the fin
 - [Week 10: 22/6 → 26/6 (5 working days)](1.10-week10/)
 - [Week 11: 29/6 → 3/7 (5 working days)](1.11-week11/)
 - [Week 12: 6/7 → 21/7 (final report completion period)](1.12-week12/)
+

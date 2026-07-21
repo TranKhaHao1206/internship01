@@ -65,3 +65,4 @@ Phần này nhấn mạnh rủi ro khi kết nối AI với hệ thống bên th
 ## Trải nghiệm trong event
 
 Sự kiện giúp tôi nhìn thấy AI trong môi trường doanh nghiệp không còn là ý tưởng xa vời mà đã đi vào vận hành cloud, bảo mật, HR và voice agent. Các live demo như mô phỏng lỗi ECS rồi dùng AI debug hoặc gọi trực tiếp cho Voice Agent làm nội dung trở nên rất thực tế và dễ hình dung.
+

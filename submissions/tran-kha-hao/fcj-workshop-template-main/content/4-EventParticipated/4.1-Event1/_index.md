@@ -58,3 +58,4 @@ The method emphasized building small behaviors, taking action, and maintaining d
 ## Event Experience
 
 Although it was a weekend event, the speakers brought a lot of energy. The content combined AI, behavioral psychology, productivity, and career orientation. I learned that in the AI era, technical skills must go together with discipline, self-learning, and a strong mindset.
+

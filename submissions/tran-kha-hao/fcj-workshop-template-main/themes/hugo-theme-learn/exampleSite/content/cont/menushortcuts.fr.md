@@ -106,3 +106,4 @@ Par exemple, avec ce site :
     weight = 30
 
 Plus d'infos sur [les menus Hugo](https://gohugo.io/extras/menus/) et les [menus multi-langue Hugo](https://gohugo.io/content-management/multilingual/#menus)
+

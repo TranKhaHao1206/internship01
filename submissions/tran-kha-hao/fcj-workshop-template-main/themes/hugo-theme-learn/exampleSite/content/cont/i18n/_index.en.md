@@ -76,3 +76,4 @@ Just set `disableLanguageSwitchingButton=true` in your `config.toml`
 ```
 
 ![I18n menu](/en/cont/i18n/images/i18n-menu.gif)
+

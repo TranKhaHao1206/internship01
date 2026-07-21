@@ -1,10 +1,10 @@
 # IRMS AWS Internship Report
 
-**Live Demo:** [View Report](https://trankhahao1206.github.io/Internship/)
+**Live Demo:** [View Report](https://trankhahao1206.github.io/internship01/)
 
 [![AWS](https://img.shields.io/badge/AWS-Serverless-orange)](https://aws.amazon.com/)
 [![Hugo](https://img.shields.io/badge/Hugo-Workshop%20Report-blue)](https://gohugo.io/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://trankhahao1206.github.io/Internship/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen)](https://trankhahao1206.github.io/Internship01/)
 
 ## Overview
 
@@ -75,7 +75,7 @@ hugo server -D
 Build the production site:
 
 ```bash
-hugo --minify --baseURL "baseURL = 'https://trankhahao1206.github.io/Internship/'"
+hugo --minify --baseURL "baseURL = 'https://trankhahao1206.github.io/internship01/'"
 ```
 
 ## Deployment
@@ -89,7 +89,7 @@ The report is deployed to GitHub Pages through the workflow:
 Live report URL:
 
 ```text
-baseURL = 'https://trankhahao1206.github.io/Internship/'
+baseURL = 'https://trankhahao1206.github.io/internship01/'
 ```
 
 ## Internship Duration
@@ -100,3 +100,4 @@ April 17, 2026 - July 30, 2026
 
 **Tran Kha Hao**  
 FCAJ Cloud Intern - Cybersecurity specialization
+

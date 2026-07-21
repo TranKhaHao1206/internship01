@@ -65,3 +65,4 @@ The session highlighted risks when AI connects to third-party systems through th
 ## Event Experience
 
 The event showed that AI is already being applied in cloud operations, security, HR, and voice agents. Live demos made the topics practical, especially the examples of AI-assisted debugging and voice-agent interaction.
+

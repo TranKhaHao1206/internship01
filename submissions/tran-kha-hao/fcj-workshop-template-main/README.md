@@ -2,7 +2,7 @@
 
 This repository contains my AWS First Cloud Journey internship report and IRMS workshop documentation.
 
-📍 **Live Demo:** [View Report](https://trankhahao1206.github.io/Internship/)
+📍 **Live Demo:** [View Report](https://trankhahao1206.github.io/internship01/)
 
 ## Contents
 
@@ -17,3 +17,4 @@ This repository contains my AWS First Cloud Journey internship report and IRMS w
 ## Project
 
 IRMS (Incident Response Management System) is a serverless security incident management project built with AWS services, including CloudFront, S3, API Gateway, Cognito, Lambda, DynamoDB, EventBridge, SNS, Secrets Manager, and an AI Assistant integration.
+

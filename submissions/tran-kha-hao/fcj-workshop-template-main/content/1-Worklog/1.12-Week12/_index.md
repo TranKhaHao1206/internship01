@@ -71,7 +71,7 @@ I replaced the architecture diagram in both Proposal and Workshop, then checked 
 I ran a production build with the GitHub Pages base URL, reviewed Hugo warnings, and confirmed there were no Markdown or front matter errors breaking the site. I also checked for sensitive information one last time to avoid publishing login emails, passwords, access keys, secret keys, tokens, or API keys. The final adjustment was updating the Worklog timeline so the early weeks represent AWS learning and labs, while the IRMS project starts from the week that includes July 1.
 
 ```bash
-hugo --minify --baseURL https://trankhahao1206.github.io/Internship/
+hugo --minify --baseURL https://trankhahao1206.github.io/internship01/
 ```
 
 **Knowledge learned:** Completing the report is not only writing content; it also requires checking build output, links, images, sensitive data, and consistency across the whole website.
@@ -79,3 +79,4 @@ hugo --minify --baseURL https://trankhahao1206.github.io/Internship/
 **Result achieved:** The report reflected the actual timeline, my personal role in the team, and the completed project status up to July 21, 2026.
 
 **Difficulty and lesson learned:** Near the end, fixing one section can easily affect another, so a checklist-based review is safer than relying only on visual inspection.
+

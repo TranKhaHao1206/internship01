@@ -39,3 +39,4 @@ Font Awesome provides many ways to modify the icon
 - Combine with other icons
 
 Check the full documentation on [web fonts with CSS](https://fontawesome.com/how-to-use/web-fonts-with-css) for more.
+

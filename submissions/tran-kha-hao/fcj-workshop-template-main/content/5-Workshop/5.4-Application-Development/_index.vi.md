@@ -541,3 +541,4 @@ Template provided at 'infrastructure\template.yaml' was successfully validated.
 - ✅ Chưa chạy sam build
 - ✅ Chưa chạy sam deploy
 - ✅ Chưa tạo bất kỳ resource production nào
+

@@ -14,3 +14,4 @@ Cependant, pour éviter les limitations, Hugo a créé les [shortcodes](https://
 **Hugo-theme-learn** fournit de multiple shortcodes en plus de ceux existant.
 
 {{%children style="h2" description="true" %}}
+

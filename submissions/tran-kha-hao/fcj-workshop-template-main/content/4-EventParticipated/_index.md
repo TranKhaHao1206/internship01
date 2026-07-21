@@ -35,3 +35,4 @@ During the internship, I participated in three events related to AI, AWS, cloud 
 ## Summary
 
 Through these three events, I learned that growing in cloud and AI requires more than tools. It also requires architecture thinking, self-learning, communication skills, and proactive career development.
+

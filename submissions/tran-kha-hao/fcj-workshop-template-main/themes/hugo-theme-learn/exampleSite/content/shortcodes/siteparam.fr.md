@@ -21,3 +21,4 @@ Valeur de `editURL` : {{%/* siteparam "editURL" */%}}
 s'affiche comme
 
 Valeur de `editURL` : {{% siteparam "editURL" %}}
+

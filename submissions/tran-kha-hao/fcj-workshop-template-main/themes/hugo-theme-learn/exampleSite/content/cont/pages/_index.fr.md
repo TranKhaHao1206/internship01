@@ -144,3 +144,4 @@ Pour configurer votre page d'accueil, vous avez trois choix:
 1. Créer une page `_index.md` dans le dossier `content` et remplissez le fichier avec du _contenu Markdown_
 2. Créer une page `index.html` dans le dossier `static` et remplissez le fichier avec du _contenu HTML_
 3. Configurez votre serveur pour automatiquement rediriger la page d'accueil vers l'une de vos pages.
+

@@ -208,3 +208,4 @@ Puis, configurez le paramètre `themeVariant` avec le nom de votre variante. C'e
   # Modifier le schéma de couleur par défaut. Peut être "red", "blue", "green".
   themeVariant = "lemien"
 ```
+

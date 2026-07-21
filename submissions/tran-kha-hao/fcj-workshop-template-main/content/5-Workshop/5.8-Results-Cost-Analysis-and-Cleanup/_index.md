@@ -142,3 +142,4 @@ aws cloudformation delete-stack \
 - Secrets Manager secret for the Groq API key
 
 Keep the Amazon Cognito User Pool only if there is a plan to continue development or reuse it for a later version.
+

@@ -41,3 +41,4 @@ This current documentation has been statically generated with Hugo with a simple
 {{% notice note %}}
 Automatically published and hosted thanks to [Netlify](https://www.netlify.com/). Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
 {{% /notice %}}
+

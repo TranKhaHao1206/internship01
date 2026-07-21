@@ -36,3 +36,4 @@ Bên cạnh kỹ thuật, tôi cũng cải thiện kỹ năng viết báo cáo. 
 ## 5. Cảm nhận chung
 
 Sau kỳ thực tập, tôi cảm thấy mình tự tin hơn khi làm việc với AWS và hiểu rõ hơn cách một dự án cloud được triển khai từ đầu đến cuối. Dù vẫn còn nhiều điểm cần học thêm, tôi thấy đây là nền tảng tốt để tiếp tục phát triển theo hướng cloud engineering, backend/serverless và technical documentation.
+

@@ -19,7 +19,7 @@ IRMS (Incident Response Management System) là hệ thống quản lý sự cố
 Sau khi hoàn thành workshop, bạn sẽ có một hệ thống IRMS chạy thật trên AWS với đầy đủ chức năng: xác thực người dùng, quản lý Incident, lưu trữ bằng chứng, tự động phát hiện mối đe dọa và hỗ trợ AI phân tích sự cố.
 
 #### 5.1.1.2 Kiến trúc tổng thể
-![Sơ đồ kiến trúc IRMS](/Internship/images/5-Workshop/IRMS/IRMS_architecture_v10.drawio.png)
+![Sơ đồ kiến trúc IRMS](/internship01/images/5-Workshop/IRMS/IRMS_architecture_v10.drawio.png)
 
 Hệ thống gồm các lớp sau:
 Global/Edge:
@@ -53,3 +53,4 @@ External:
 | Amazon SNS | Gửi thông báo |
 | AWS Secrets Manager | Lưu trữ credentials |
 | Amazon CloudWatch | Monitoring, Logs |
+

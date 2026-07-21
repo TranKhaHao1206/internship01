@@ -27,7 +27,7 @@ IRMS addresses this problem by providing a structured incident management workfl
 
 The system follows a Serverless-first model and avoids EC2, RDS, and NAT Gateway in the MVP to reduce cost and operational complexity.
 
-![IRMS Solution Architecture](/Internship/images/2-Proposal/IRMS_architecture_v10.drawio.png)
+![IRMS Solution Architecture](/internship01/images/2-Proposal/IRMS_architecture_v10.drawio.png)
 
 #### Deployed Core Architecture
 
@@ -140,3 +140,4 @@ By the end of the project, the team will have a working IRMS system running on A
 - Use AI-assisted incident analysis, severity explanation, and incident Q&A.
 - Return a rule-based fallback response when the AI provider is unavailable.
 - Export report data and document the cleanup process.
+

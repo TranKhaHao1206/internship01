@@ -64,3 +64,4 @@ AI amplifies existing capability. If the foundation is weak, AI output can be wr
 ## Event Experience
 
 This event gave me a broader view of the cloud career path. I realized that technical skill is only one part; business understanding, communication, asking questions, and visibility are also important. The community's Forward spirit motivated me to keep learning and share back with others.
+

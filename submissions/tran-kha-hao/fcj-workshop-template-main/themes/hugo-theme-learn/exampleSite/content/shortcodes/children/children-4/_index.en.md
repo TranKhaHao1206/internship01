@@ -5,3 +5,4 @@ hidden = true
 +++
 
 This is a demo child page, not displayed in the menu
+

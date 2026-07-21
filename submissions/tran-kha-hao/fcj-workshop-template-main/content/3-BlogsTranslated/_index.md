@@ -13,3 +13,4 @@ During the internship, I read and rewrote selected AWS Blog articles to better u
 
 1. [Shift-left Security with Amazon Bedrock: Automating Threat Modeling with Generative AI](3.1-Blog1/)
 2. [Amazon RDS + AI + MCP: When Reading Logs Is No Longer a Nightmare](3.2-Blog2/)
+

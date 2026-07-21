@@ -36,3 +36,4 @@ name = "<i class='fas fa-tags'></i> Tags"
 url = "/tags"
 weight = 30
 ```
+

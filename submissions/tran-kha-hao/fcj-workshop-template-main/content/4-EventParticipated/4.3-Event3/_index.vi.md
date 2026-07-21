@@ -64,3 +64,4 @@ Anh Khang nhấn mạnh AI chỉ khuếch đại năng lực. Nếu nền tảng
 ## Trải nghiệm trong event
 
 Sự kiện giúp tôi có góc nhìn rộng hơn về cloud career path. Tôi nhận ra kỹ thuật chỉ là một phần; để phát triển tốt cần hiểu business, biết giao tiếp, biết đặt câu hỏi và chủ động tạo sự hiện diện. Tinh thần Forward của cộng đồng cũng tạo động lực để tôi tiếp tục học hỏi và chia sẻ lại cho người đi sau.
+

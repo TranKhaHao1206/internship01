@@ -4,3 +4,4 @@ with .Site.GetPage "section" (trim $pagepath "/") -}} {{- ( printf "%s%s"
 $pagepath $anchor ) | relLangURL -}} {{- end -}} {{- else -}} {{- with
 .Site.GetPage "section" (.Get 0) }} {{- .RelPermalink -}} {{- else -}} {{- .Get
 0 | relref .Page -}} {{- end -}} {{- end -}}
+

@@ -76,3 +76,4 @@ Pour ce faire, ajouter le paramètre `disableLanguageSwitchingButton=true` dans 
 ```
 
 ![I18n menu](/en/cont/i18n/images/i18n-menu.gif)
+

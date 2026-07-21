@@ -71,7 +71,7 @@ Tôi thay sơ đồ kiến trúc mới vào cả Proposal và Workshop, sau đó
 Tôi chạy production build với base URL GitHub Pages, xem lại các warning của Hugo và xác nhận không có lỗi Markdown/front matter làm hỏng trang. Tôi cũng kiểm tra lần cuối các nội dung nhạy cảm để không publish email đăng nhập, password, access key, secret key, token hoặc API key. Phần cuối cùng là cập nhật Worklog để timeline phản ánh đúng: các tuần đầu là học AWS và làm lab, còn dự án IRMS bắt đầu từ tuần có ngày 01/07.
 
 ```bash
-hugo --minify --baseURL https://trankhahao1206.github.io/Internship/
+hugo --minify --baseURL https://trankhahao1206.github.io/internship01/
 ```
 
 **Kiến thức đã học:** Hoàn thiện báo cáo không chỉ là viết nội dung, mà còn phải kiểm tra build, link, hình ảnh, bảo mật thông tin và sự nhất quán của toàn bộ website.
@@ -79,3 +79,4 @@ hugo --minify --baseURL https://trankhahao1206.github.io/Internship/
 **Kết quả đạt được:** Báo cáo phản ánh đúng tiến độ thực tế, vai trò cá nhân trong nhóm và trạng thái hoàn thành dự án đến ngày 21/07/2026.
 
 **Khó khăn và bài học:** Càng về cuối càng dễ sửa một chỗ làm lệch chỗ khác, nên cần kiểm tra theo checklist thay vì chỉ nhìn bằng mắt.
+

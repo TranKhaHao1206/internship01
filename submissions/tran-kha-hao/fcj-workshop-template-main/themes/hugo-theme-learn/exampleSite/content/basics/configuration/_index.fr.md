@@ -54,3 +54,4 @@ Le thème _Learn_ utilise les dernières améliorations d'Hugo pour générer un
 
 > Hugo génère lunrjs index.json à la racine du dossier `public`.
 > Quand vous générez le site avec `hugo server`, Hugo génère le fichier en mémoire, il n'est donc pas disponible sur le disque.
+

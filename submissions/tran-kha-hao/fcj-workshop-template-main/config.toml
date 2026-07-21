@@ -1,4 +1,4 @@
-baseURL = "https://trankhahao1206.github.io/Internship/"
+baseURL = "https://trankhahao1206.github.io/internship01/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -48,3 +48,4 @@ weight = 20
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+

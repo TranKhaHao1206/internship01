@@ -1,38 +1,39 @@
-﻿---
-title: "Báo cáo thực tập"
+---
+title: "B�o c�o th?c t?p"
 date: 2026-04-17
 weight: 1
 chapter: false
 ---
 
-# Báo cáo thực tập
-### Thông tin sinh viên:
-&emsp; **Họ và tên:** Trần Khả Hào
+# B�o c�o th?c t?p
+### Th�ng tin sinh vi�n:
+&emsp; **H? v� t�n:** Tr?n Kh? H�o
 
-&emsp; **Số điện thoại:** 0915410747
+&emsp; **S? �i?n tho?i:** 0915410747
 
 &emsp; **Email:** khahao1206@gmail.com
 
-&emsp; **Trường:** Đại học Công nghệ TP.HCM
+&emsp; **Tr�?ng:** �?i h?c C�ng ngh? TP.HCM
 
-&emsp; **Ngành:** Công nghệ thông tin
+&emsp; **Ng�nh:** C�ng ngh? th�ng tin
 
-&emsp; **Chuyên ngành:** An ninh mạng
+&emsp; **Chuy�n ng�nh:** An ninh m?ng
 
-&emsp; **Công ty/Chương trình thực tập:** First Cloud AI Journey
+&emsp; **C�ng ty/Ch��ng tr?nh th?c t?p:** First Cloud AI Journey
 
-&emsp; **Vị trí thực tập:** FCAJ cloud intern
+&emsp; **V? tr� th?c t?p:** FCAJ cloud intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 30/07/2026
+&emsp; **Th?i gian th?c t?p:** T? ng�y 17/04/2026 �?n ng�y 30/07/2026
 
-<img src="/Internship/images/avata-tkh.png" alt="Ảnh đại diện của bạn" width="380" />
+<img src="/internship01/images/avata-tkh.png" alt="?nh �?i di?n c?a b?n" width="380" />
 
-### Nội dung báo cáo
+### N?i dung b�o c�o
 
 1.  [Worklog](1-Worklog/)
 2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã dịch](3-BlogsTranslated/)
-4.  [Các events đã tham gia](4-EventParticipated/)
+3.  [C�c b�i blogs �? d?ch](3-BlogsTranslated/)
+4.  [C�c events �? tham gia](4-EventParticipated/)
 5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+6.  [T? ��nh gi�](6-Self-evaluation/)
+7.  [Chia s?, ��ng g�p ? ki?n](7-Feedback/)
+

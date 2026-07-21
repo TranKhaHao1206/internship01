@@ -144,3 +144,4 @@ Final AI flow:
 User -> React Frontend -> API Gateway -> Lambda AI Assistant -> Groq -> JSON Response -> Frontend
 Fallback: Lambda AI Assistant -> Rule-based Engine -> Frontend
 ```
+

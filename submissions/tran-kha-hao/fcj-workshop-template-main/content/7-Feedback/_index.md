@@ -36,3 +36,4 @@ Besides technical skills, I improved my reporting and documentation skills. Turn
 ## 5. Overall Reflection
 
 After the internship, I feel more confident working with AWS and better understand how a cloud project is delivered from beginning to end. Although I still have many things to improve, this experience gave me a strong foundation for cloud engineering, backend/serverless development, and technical documentation.
+

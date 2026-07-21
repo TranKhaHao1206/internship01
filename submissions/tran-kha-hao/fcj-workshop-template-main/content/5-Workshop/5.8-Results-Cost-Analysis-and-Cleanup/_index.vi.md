@@ -134,3 +134,4 @@ aws cloudformation delete-stack \
 - IAM Roles do dự án tạo riêng
 - Secrets Manager Secret chứa Groq API key
 - Chỉ giữ lại Amazon Cognito User Pool nếu có kế hoạch tiếp tục phát triển hoặc tái sử dụng cho các phiên bản sau.
+

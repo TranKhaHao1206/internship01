@@ -3,7 +3,7 @@ name: Deploy Tran Kha Hao internship report
 on:
   push:
     branches:
-      - intern/tran-kha-hao
+      - main
     paths:
       - "submissions/tran-kha-hao/fcj-workshop-template-main/**"
       - ".github/workflows/deploy-tran-kha-hao-report.yml"
@@ -33,7 +33,7 @@ jobs:
           extended: true
 
       - name: Build website
-        run: hugo --minify --baseURL "https://trankhahao1206.github.io/Internship/"
+        run: hugo --minify --baseURL "https://trankhahao1206.github.io/internship01/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
